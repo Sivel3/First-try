@@ -1,4 +1,8 @@
 Hello world!
 123
 New role
+<<<<<<< HEAD
 another line from user1
+=======
+line from user2
+>>>>>>> 021935c35715d0beef8b6178fc587d6014901970
